@@ -35,6 +35,6 @@ login: admin@jbb.edu
 password: abbosali@gwu.edu
 
 Paypal Client:
-sb-xhisr2638374@personal.example.com
-DO?tD8h%
+login: sb-xhisr2638374@personal.example.com
+password: DO?tD8h%
 * Please let us know if you need any other Paypal details. It's not included here because it includes some personal data
